@@ -1,0 +1,35 @@
+body {
+  background: rgb(255, 212, 206);
+  font-family: cursive;
+  text-align: center;
+  border-style: dotted;
+  border-color:  #FFF0F5;
+  border-spacing: 55px;
+  border-width: 20px; 
+ 
+}
+h1{
+  color:gray;
+  text-decoration: overline;
+  font-size: 50px;
+  font-weight: bold;
+}
+h2{ 
+  color:#FFF0F5;
+  font-size: 40px;
+}
+ul{
+  color: darkgray;
+  margin-left: 100px;
+  margin-right: 100px;
+font-size: 30px;
+}
+a{
+  color: saddlebrown;
+  font-size: 18px;
+}
+img{
+  border-style: dotted;
+  border-radius: 35px;
+}
+
